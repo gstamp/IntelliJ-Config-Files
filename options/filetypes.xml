@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileTypeManager" version="10">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;" />
+    <extensionMap>
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="feature" type="PLAIN_TEXT" />
+      <mapping ext="readme" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="Properties" />
+      <mapping ext="stag2" type="Properties" />
+      <mapping ext="dev" type="Properties" />
+      <mapping ext="stag" type="Properties" />
+      <mapping ext="rng" type="XML" />
+      <mapping ext="pom" type="XML" />
+    </extensionMap>
+  </component>
+</application>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="newsinglesearch" values="groovy" />
+      <project id="whereis" values="groovy" />
+      <project id="ems-branch" values="groovy" />
+      <project id="gradle-git-release-plugin" values="groovy,gradle" />
+      <project id="deploy" values="gradle,groovy" />
+      <project id="solr" values="groovy" />
+      <project id="ems" values="groovy" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="ems-branch" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="ems" values="JUnit,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,Application" />
+    </group>
+    <group name="module type">
+      <project id="newnewsinglesearch" values="JAVA_MODULE" />
+      <project id="newsinglesearch" values="JAVA_MODULE" />
+      <project id="common" values="JAVA_MODULE" />
+      <project id="ems-branch" values="JAVA_MODULE" />
+      <project id="gradle-git-release-plugin" values="JAVA_MODULE" />
+      <project id="deploy" values="JAVA_MODULE" />
+      <project id="ems-universalparser" values="JAVA_MODULE" />
+      <project id="untitled" values="JAVA_MODULE" />
+      <project id="ems" values="JAVA_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="common" values="Git" />
+      <project id="whereis" values="svn" />
+      <project id="ems-branch" values="Git" />
+      <project id="deploy" values="Git" />
+      <project id="solr" values="svn" />
+      <project id="ems-universalparser" values="Git" />
+      <project id="ems" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="whereis" values="web,IvyIDEA,invalid" />
+      <project id="ems-branch" values="web,Clojure" />
+      <project id="solr" values="web" />
+      <project id="ems-universalparser" values="Clojure" />
+      <project id="ems" values="web" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="ems" values="/" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="ems" values="oracle.jdbc.OracleDriver" />
+    </group>
+  </component>
+</application>
+

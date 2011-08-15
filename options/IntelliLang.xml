@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="Groovy" injector-id="xml">
+      <display-name>processingScript</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("processingScript"))]]></place>
+    </injection>
+    <injection language="Groovy" injector-id="xml">
+      <display-name>script</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("script"))]]></place>
+    </injection>
+  </component>
+</application>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="9f6d7fb3183832cee10d23375f8cba864a212f9687c44f8436aac14c32d649c9" />
+          <option value="5f7850291b5fde25c1a061f2cbf442b640775a3fbb3280c80ecedfce333c31b3" />
+          <option value="73a35176cffa36d7b798b6424fa74e599831da55c069b340bfd0e8cce6ed61c0" />
+        </array>
+        <array>
+          <option value="c97f3538093467ece8cd341c9bcdcf57" />
+          <option value="9830000221f3e91b9d90d8fb97bdb0d067914a1cf52d882e623516504aeecf8a" />
+          <option value="c97f3538093467ece8cd341c9bcdcf57" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="w76736@git.sensis.com.au" method="publickey" />
+  </component>
+</application>
+

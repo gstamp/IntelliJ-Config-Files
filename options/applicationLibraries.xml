@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="libraryTable">
+    <library name="[gem] builder (v3.0.0, /var/lib/gems/1.8/gems/builder-3.0.0)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/builder-3.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/builder-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] bundle (v0.0.1, /var/lib/gems/1.8/gems/bundle-0.0.1)">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="[gem] bundler (v1.0.13, /var/lib/gems/1.8/gems/bundler-1.0.13)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/bundler-1.0.13/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/bundler-1.0.13/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/bundler-1.0.13/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/bundler-1.0.13/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/bundler-1.0.13/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/bundler-1.0.13/man" />
+      </SOURCES>
+    </library>
+    <library name="[gem] capybara (v0.4.1.2, /var/lib/gems/1.8/gems/capybara-0.4.1.2)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/capybara-0.4.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/capybara-0.4.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] celerity (v0.8.9, /var/lib/gems/1.8/gems/celerity-0.8.9)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/celerity-0.8.9/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/celerity-0.8.9/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/celerity-0.8.9/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/celerity-0.8.9/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] childprocess (v0.1.8, /var/lib/gems/1.8/gems/childprocess-0.1.8)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/childprocess-0.1.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/childprocess-0.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] cucumber (v0.10.2, /var/lib/gems/1.8/gems/cucumber-0.10.2)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/fixtures" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/features" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/gem_tasks" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/legacy_features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/fixtures" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/features" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/gem_tasks" />
+        <root url="file:///var/lib/gems/1.8/gems/cucumber-0.10.2/legacy_features" />
+      </SOURCES>
+    </library>
+    <library name="[gem] culerity (v0.2.15, /var/lib/gems/1.8/gems/culerity-0.2.15)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/rails" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/features" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/script" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/rails_generators" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/rails" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/features" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/script" />
+        <root url="file:///var/lib/gems/1.8/gems/culerity-0.2.15/rails_generators" />
+      </SOURCES>
+    </library>
+    <library name="[gem] diff-lcs (v1.1.2, /var/lib/gems/1.8/gems/diff-lcs-1.1.2)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/diff-lcs-1.1.2/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/diff-lcs-1.1.2/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/diff-lcs-1.1.2/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/diff-lcs-1.1.2/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/diff-lcs-1.1.2/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/diff-lcs-1.1.2/tests" />
+      </SOURCES>
+    </library>
+    <library name="[gem] expectations (v2.0.0, /var/lib/gems/1.8/gems/expectations-2.0.0)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/expectations-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/expectations-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] ffi (v1.0.7, /var/lib/gems/1.8/gems/ffi-1.0.7)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/ffi-1.0.7/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/ffi-1.0.7/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/ffi-1.0.7/gen" />
+        <root url="file:///var/lib/gems/1.8/gems/ffi-1.0.7/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/ffi-1.0.7/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/ffi-1.0.7/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/ffi-1.0.7/gen" />
+        <root url="file:///var/lib/gems/1.8/gems/ffi-1.0.7/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] gherkin (v2.3.7, /var/lib/gems/1.8/gems/gherkin-2.3.7)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/ragel" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/ikvm" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/java" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/js" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/features" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/ragel" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/ikvm" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/java" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/js" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/features" />
+        <root url="file:///var/lib/gems/1.8/gems/gherkin-2.3.7/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] json (v1.5.1, /var/lib/gems/1.8/gems/json-1.5.1)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/tools" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/java" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/tests" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/data" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/tools" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/java" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/tests" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/data" />
+        <root url="file:///var/lib/gems/1.8/gems/json-1.5.1/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] json_pure (v1.5.1, /var/lib/gems/1.8/gems/json_pure-1.5.1)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/tools" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/java" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/tests" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/data" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/tools" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/java" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/tests" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/data" />
+        <root url="file:///var/lib/gems/1.8/gems/json_pure-1.5.1/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] linecache (v0.43, /home/ems/.gem/ruby/1.8/gems/linecache-0.43)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/linecache-0.43/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/linecache-0.43/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/linecache-0.43/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/linecache-0.43/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mime-types (v1.16, /var/lib/gems/1.8/gems/mime-types-1.16)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/mime-types-1.16/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/mime-types-1.16/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mocha (v0.9.12, /var/lib/gems/1.8/gems/mocha-0.9.12)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/mocha-0.9.12/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/mocha-0.9.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] nokogiri (v1.4.4, /var/lib/gems/1.8/gems/nokogiri-1.4.4)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/nokogiri-1.4.4/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/nokogiri-1.4.4/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/nokogiri-1.4.4/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/nokogiri-1.4.4/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/nokogiri-1.4.4/ext" />
+        <root url="file:///var/lib/gems/1.8/gems/nokogiri-1.4.4/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/nokogiri-1.4.4/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/nokogiri-1.4.4/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack (v1.2.2, /var/lib/gems/1.8/gems/rack-1.2.2)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/rack-1.2.2/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rack-1.2.2/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/rack-1.2.2/example" />
+        <root url="file:///var/lib/gems/1.8/gems/rack-1.2.2/contrib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/rack-1.2.2/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rack-1.2.2/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/rack-1.2.2/example" />
+        <root url="file:///var/lib/gems/1.8/gems/rack-1.2.2/contrib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-test (v0.5.7, /var/lib/gems/1.8/gems/rack-test-0.5.7)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/rack-test-0.5.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/rack-test-0.5.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rake (v0.8.7, /var/lib/gems/1.8/gems/rake-0.8.7)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/rake-0.8.7/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rake-0.8.7/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/rake-0.8.7/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rake-0.8.7/bin" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec (v2.5.0, /var/lib/gems/1.8/gems/rspec-2.5.0)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/rspec-2.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/rspec-2.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-core (v2.5.1, /var/lib/gems/1.8/gems/rspec-core-2.5.1)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/rspec-core-2.5.1/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-core-2.5.1/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-core-2.5.1/features" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-core-2.5.1/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/rspec-core-2.5.1/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-core-2.5.1/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-core-2.5.1/features" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-core-2.5.1/script" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-expectations (v2.5.0, /var/lib/gems/1.8/gems/rspec-expectations-2.5.0)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/rspec-expectations-2.5.0/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-expectations-2.5.0/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/rspec-expectations-2.5.0/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-expectations-2.5.0/features" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-mocks (v2.5.0, /var/lib/gems/1.8/gems/rspec-mocks-2.5.0)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/rspec-mocks-2.5.0/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-mocks-2.5.0/autotest" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-mocks-2.5.0/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/rspec-mocks-2.5.0/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-mocks-2.5.0/autotest" />
+        <root url="file:///var/lib/gems/1.8/gems/rspec-mocks-2.5.0/features" />
+      </SOURCES>
+    </library>
+    <library name="[gem] ruby-debug-base (v0.10.5.jb2, /home/ems/.gem/ruby/1.8/gems/ruby-debug-base-0.10.5.jb2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-base-0.10.5.jb2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-base-0.10.5.jb2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-base-0.10.5.jb2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-base-0.10.5.jb2/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] ruby-debug-ide (v0.4.17.beta3, /home/ems/.gem/ruby/1.8/gems/ruby-debug-ide-0.4.17.beta3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-ide-0.4.17.beta3/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-ide-0.4.17.beta3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-ide-0.4.17.beta3/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-ide-0.4.17.beta3/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-ide-0.4.17.beta3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/1.8/gems/ruby-debug-ide-0.4.17.beta3/bin" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rubyzip (v0.9.4, /var/lib/gems/1.8/gems/rubyzip-0.9.4)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/rubyzip-0.9.4/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rubyzip-0.9.4/samples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/rubyzip-0.9.4/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/rubyzip-0.9.4/samples" />
+      </SOURCES>
+    </library>
+    <library name="[gem] selenium-webdriver (v0.2.0, /var/lib/gems/1.8/gems/selenium-webdriver-0.2.0)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/selenium-webdriver-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/selenium-webdriver-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] term-ansicolor (v1.0.5, /var/lib/gems/1.8/gems/term-ansicolor-1.0.5)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/term-ansicolor-1.0.5/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/term-ansicolor-1.0.5/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/term-ansicolor-1.0.5/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/term-ansicolor-1.0.5/lib" />
+        <root url="file:///var/lib/gems/1.8/gems/term-ansicolor-1.0.5/bin" />
+        <root url="file:///var/lib/gems/1.8/gems/term-ansicolor-1.0.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="[gem] xpath (v0.1.4, /var/lib/gems/1.8/gems/xpath-0.1.4)">
+      <CLASSES>
+        <root url="file:///var/lib/gems/1.8/gems/xpath-0.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/1.8/gems/xpath-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="groovy-1.7.8">
+      <CLASSES>
+        <root url="jar:///usr/share/groovy/lib/antlr-2.7.7.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/ivy-2.2.0.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/groovy-1.7.8.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/ant-1.8.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/jline-0.9.94.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/xstream-1.3.1.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/jansi-1.2.1.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/bsf-2.4.0.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/servlet-api-2.4.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/jsp-api-2.0.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/junit-4.8.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/asm-commons-3.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/ant-junit-1.8.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/ant-antlr-1.8.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/asm-tree-3.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/commons-cli-1.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/asm-3.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/ant-launcher-1.8.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/asm-util-3.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/asm-analysis-3.2.jar!/" />
+        <root url="jar:///usr/share/groovy/lib/commons-logging-1.1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
+

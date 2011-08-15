@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="LeiningenRunnerSettings">
+    <option name="leiningenPath" value="$USER_HOME$/bin/lein" />
+  </component>
+</application>
+

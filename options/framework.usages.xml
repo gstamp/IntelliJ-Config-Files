@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FrameworkUsages">
+    <project id="whereis" frameworks="IvyIDEA,Web,JRuby" />
+    <project id="solr" frameworks="Web" />
+    <project id="ems" frameworks="IvyIDEA,Web Beans,Web,Web2" />
+  </component>
+</application>
+

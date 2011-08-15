@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at com.google.inject" />
+        <option value="at org.apache.catalina" />
+        <option value="at java.lang" />
+        <option value="at org.apache.coyote" />
+        <option value="at org.jboss.resteasy" />
+        <option value="$$EnhancerByGuice$$" />
+        <option value="at org.apache.solr" />
+      </list>
+    </option>
+  </component>
+</application>
+
